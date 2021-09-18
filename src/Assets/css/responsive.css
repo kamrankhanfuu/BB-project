@@ -1,0 +1,449 @@
+
+@media screen and (max-width:1200px) {
+.signup-outer li a {
+    font-size: 15px;
+    padding: 7px 10px;
+}
+.partners {
+    font-size: 15px;
+    padding: 7px 10px;
+    width: 150px;
+}
+.auto-container {
+    padding: 0 15px;
+}
+.nav-outer li a {
+    margin: 0 8px 0;
+}
+.menu-section li {
+    width: 23.8%;
+    min-height: 410px;
+}.delivered-left li {
+	width: 48%;
+}
+
+
+.listing-inner-top h2 {
+    width: 100%;
+    text-align: left;
+}
+.listing-inner-top a {
+    margin: 10px 0 20px;
+}
+.form-group label {
+    font-size: 13px;
+}
+ul.tabs-nav li a {
+	padding: 15px 9px;
+    font-size: 14px;
+}
+li.more-select select {
+    font-size: 14px;
+    padding: 15px 0;
+}.tabs-stage li {
+    margin: 0 12px 15px 0px;
+}
+strong.tabs-content-inner {
+    padding: 10px 10px 20px;
+}
+
+strong.tabs-content-inner h3 {
+    font-size: 16px;
+	line-height: 21px;
+}
+.checkout-outer h1 {
+    font-size: 32px;
+}
+.checkout-login-outer li a {
+    font-size: 15px;
+}
+
+
+.full-width .auto-container {
+    padding: 0 15px;
+}
+
+
+}
+
+
+@media screen and (max-width:991px) {
+.logo-outer {
+	width: 22%;
+}
+
+.logo-outer img {
+    max-width: 155px;
+}
+.nav-outer li a {
+    margin: 0 7px;
+    font-size: 14px;
+}
+
+.nav-outer {
+    width: 44%;
+}
+.signup-outer {
+    width: 34%;
+}
+.signup-outer li {
+    float: left;
+    margin: 0 0 0 5px;
+}.signup-outer li:first-child {
+    margin-left:0;
+}
+.partners {
+    font-size: 13px;
+    padding: 7px 7px;
+    width: 130px;
+}
+.signup-outer li a {
+    font-size: 13px;
+    padding: 7px 7px;
+}
+.banner-section {
+    padding: 30px 0 50px;
+}
+.banner-section h1 {
+    font-size: 30px;
+    padding: 0 15px;
+    line-height: 33px;
+}
+.menu-section {
+    padding: 50px 0;
+}
+.title-con {
+    font-size: 32px;
+}
+.menu-section ul {
+    padding: 20px 0 0 0;
+}
+.menu-section li {
+    min-height: 450px;
+    margin: 10px 11px 10px 0;
+}
+.product-content p {
+    font-size: 14px;
+    line-height: 18px;
+}
+.delivered-section {
+    padding: 50px 0 60px;
+}
+
+.delivered-right h3 {
+    font-size: 20px;
+}
+.delivered-left {
+    padding: 0 10px 0 0;
+}
+.kitchen-section {
+    padding: 50px 0;
+}
+.kitchen-right h3 {
+    font-size: 25px;
+}
+.google-play li {
+    margin: 20px 7px 0 0;
+    width: 46%;
+}
+.listing-inner-top h2 {
+    font-size: 14px;
+    padding: 0 0px 10px 60px;
+}
+ul.tabs-nav li a {
+    padding: 15px 4px;
+    font-size: 13px;
+}
+
+li.more-select select {
+    font-size: 13px;
+    width: 80px;
+}
+.order-btn a {
+    padding: 12px 16px;
+    font-size: 14pX;
+}
+.tabs-stage li {
+    margin: 0 9px 15px 0px;
+}
+ul.tabs-nav {
+    padding: 0 13% 0 0px;
+}
+.popup_contain {
+    min-width: 510px;
+}
+
+
+}
+
+
+@media screen and (max-width:767px) {
+
+.signup-outer {
+	display: none;
+}
+
+.nav-outer {
+    position: absolute;
+    width: 100%;
+    right: 0;
+}
+.mobile-icons {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+}
+.banner-section form {
+    width: 100%;
+}
+.nav-outer ul {
+    display: none;
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    float: left;
+    margin: 30px 0 0;
+    text-align: left;
+    position: relative;
+    z-index: 111;
+}
+.nav-outer li {
+    width: 100%;
+}
+.nav-outer li a {
+    color: #fff;
+    text-align: left;
+    margin: 0;
+    padding: 14px 10px;
+    float: left;
+    width: 100%;
+    font-size: 16px;
+}
+
+.nav-outer li a:hover
+{
+	background:#03989e;
+}
+
+.mobile-icons img {
+    width: 32px;
+	cursor:pointer;
+    margin: 2px 15px 0 0px;
+}
+
+.nav-outer.open-nav ul {
+    display: block;
+}
+
+.menu-section li {
+    width: 48.8%;
+    min-height: 350px;
+    margin: 10px 14px 10px 0;
+}
+
+.menu-section li:nth-child(2n)
+{
+	margin-right:0;
+}
+.delivered-left {
+    padding: 0;
+    width: 100%;
+}
+.delivered-left li {
+    width: 48.6%;
+}
+.delivered-right {
+    width: 100%;
+    padding: 30px 0 0;
+}
+.kitchen-right {
+    padding: 20px;
+}
+.footer01 {
+    width: 50%;
+    margin: 20px 0px;
+}
+.listing-left {
+	width: 100%;
+    padding: 0;
+}
+.listing-right {
+    width: 100%;
+    padding: 20px 0 0 0;
+}
+section.listing-outer {
+    padding: 20px 0;
+}
+.listing-inner-top h2 {
+    width: auto;
+}
+.details-left-outer {
+    width: 100%;
+    padding: 0;
+}
+ul.tabs-nav.media-img-sticky {
+    left: 0;
+    width: 100%;
+}
+.tabs-stage h2 {
+    font-size: 23px;
+    margin: 10px 0 20px;
+}
+
+.empty-outer.media-img-sticky {
+    position: inherit;
+    width: 100%;
+}
+.details-right-outer {
+    width: 100%;
+    margin: 20px 0 0;
+}
+
+.details-delivery-outer img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width:639px) {
+.banner-section h1 {
+    font-size: 24px;
+    padding: 0;
+    line-height: 28px;
+}
+.banner-section h2 {
+    font-size: 19px;
+}
+.title-con {
+    font-size: 28px;
+}
+
+.menu-section li {
+    width: 48.4%;
+    min-height: 390px;
+    margin: 10px 14px 10px 0;
+}
+.delivered-left li {
+    width: 48.2%;
+}
+.kitchen-left {
+    width: 100%;
+}
+
+.kitchen-right {
+    padding: 20px;
+    width: 100%;
+}
+.footer01 {
+    width: 100%;
+    margin: 10px 0px;
+}
+footer {
+    padding: 30px 0 0;
+}
+.copyright-outer {
+    margin: 20px 0 0;
+}
+section.details-outer {
+    padding: 20px 0 50px;
+}.tabs-stage li {
+    width: 49%;
+	margin:0 8px 15px 0px;
+}
+.tabs-stage li:nth-child(2n)
+{
+	margin-right:0;
+}.tabs-stage li:nth-child(3n) {
+    margin-right: 8px;
+}.tabs-stage li:last-child
+{
+	margin-right:0;
+}ul.tabs-nav {
+    padding: 0 100px 0 0px;
+}ul.tabs-nav li a {
+    padding: 6px 14px;
+    font-size: 13px;
+}.popup_contain {
+    min-width: 445px;
+}
+.checkout-outer h1 {
+    font-size: 27px;
+}
+.checkout-outer p {
+    font-size: 18px;
+}
+.details-post-content h1 {
+    font-size: 22px;
+}
+}
+
+
+
+@media screen and (max-width:479px) {
+	.banner-section h1 {
+    font-size: 22px;
+}.search-banner {
+    width: 100%;
+    margin: 0 0 15px;
+}
+	.title-con {
+    font-size: 22px;
+}
+.menu-section li {
+    width: 100%;
+    margin: 10px 0 10px 0;
+    min-height: inherit;
+}
+.delivered-inner {
+    padding: 30px 0 0;
+}
+.delivered-left li {
+    width: 100%;
+    margin-right: 0;
+}
+.tabs-stage li {
+    width: 100%;
+    margin: 0 0 15px 0px;
+}
+
+.tabs-stage li:nth-child(3n) {
+    margin-right:0;
+}
+.popup_contain {
+    min-width: 295px;
+}
+.popup_contain h3 {
+    font-size: 19px;
+	margin: 30px 0 30px;
+}
+
+li.facebook {
+    padding: 0;
+    width: 100%;
+}
+li.google {
+    width: 100%;
+    padding: 0;
+}
+
+.checkout-login-outer p {
+    font-size: 14px;
+}
+
+
+
+	
+}
+	
+	
+	
